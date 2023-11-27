@@ -1,4 +1,3 @@
-
 cook_book = {}
 path = "M:\Programs\Python_Git\Files_cooking"
 with open('recipes.txt', 'r', encoding='utf-8') as file:

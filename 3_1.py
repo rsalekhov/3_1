@@ -1,6 +1,6 @@
 import os
 
-directory = r"M:\Programs\Python_Git\Files_cooking\3_1"
+directory = "3_1"
 file_list = os.listdir(directory)
 
 file_data = []
